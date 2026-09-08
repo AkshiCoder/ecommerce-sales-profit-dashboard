@@ -26,9 +26,6 @@ The project demonstrates the complete analytics workflow:
 | Total Customers | 4,338 |
 | Average Order Value | £533.17 |
 
-##DATASET
-The project uses the **[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**, containing real transactional data from a UK-based online retailer.
-
 ## 🔍 SQL Analysis
 
 The SQL analysis includes:
@@ -72,6 +69,8 @@ The SQL analysis includes:
 The project uses the **UCI Online Retail Dataset**, containing real transactional data from a UK-based online retailer.
 
 The dataset covers transactions from **December 2010 to December 2011**.
+
+The project uses the **[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**, containing real transactional data from a UK-based online retailer.
 
 > Note: The dataset does not contain product cost/COGS data. Therefore, actual profit and profit margin are not calculated. The dashboard focuses on sales and revenue performance.
 
