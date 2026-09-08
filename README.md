@@ -47,7 +47,7 @@ The SQL analysis includes:
 
 ### Revenue Dashboard
 
-![Revenue Dashboard](ProfitDashboard.png)
+![Revenue Dashboard](Revenue_Dashboard.png)
 
 ## 💡 Business Insights
 
@@ -62,7 +62,7 @@ The SQL analysis includes:
 - [`ecommerce_analysis.sql`](ecommerce_analysis.sql) – SQL analysis queries
 - [`Ecommerce_Sales_Profit_Dashboard.pbix`](Ecommerce_Sales_Profit_Dashboard.pbix) – Power BI dashboard
 - [`Analysis.png`](Analysis.png) – Sales dashboard screenshot
-- [`Profit Dashboard.png`](ProfitDashboard.png) – Revenue dashboard screenshot
+- [`Revenue_Dashboard.png`](Revenue_Dashboard.png) – Revenue dashboard screenshot
 
 ## 📂 Dataset
 
