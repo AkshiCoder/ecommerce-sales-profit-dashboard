@@ -26,6 +26,9 @@ The project demonstrates the complete analytics workflow:
 | Total Customers | 4,338 |
 | Average Order Value | £533.17 |
 
+#Raw DATA SET
+The project uses the **[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**, containing real transactional data from a UK-based online retailer.
+
 ## 🔍 SQL Analysis
 
 The SQL analysis includes:
